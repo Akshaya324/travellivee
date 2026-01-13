@@ -5,7 +5,7 @@ travellive is a full-stack 🧳 travel platform that allows users to explore, li
 
 🚀 Live Demo
 <br/>
-🔗 https://wanderlust-1-ieit.onrender.com/
+🔗 https://travellive-1-ieit.onrender.com/
 
 🛠️ Technologies Used
 <br/>
