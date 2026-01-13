@@ -1,6 +1,6 @@
-🌍 WanderLust
+🌍 travellive
 <br/>
-WanderLust is a full-stack 🧳 travel platform that allows users to explore, list, and review travel destinations 🗺️. Inspired by platforms like Airbnb, it offers a seamless experience for both travelers 🧭 and administrators 🛠️.
+travellive is a full-stack 🧳 travel platform that allows users to explore, list, and review travel destinations 🗺️. Inspired by platforms like Airbnb, it offers a seamless experience for both travelers 🧭 and administrators 🛠️.
 <br/>
 
 🚀 Live Demo
