@@ -1,11 +1,11 @@
-🌍 travellive
+🌍 wanderlust
 <br/>
-travellive is a full-stack 🧳 travel platform that allows users to explore, list, and review travel destinations 🗺️. Inspired by platforms like Airbnb, it offers a seamless experience for both travelers 🧭 and administrators 🛠️.
+travellive wanderlust is a full-stack 🧳 travel platform that allows users to explore, list, and review travel destinations 🗺️. Inspired by platforms like Airbnb, it offers a seamless experience for both travelers 🧭 and administrators 🛠️.
 <br/>
 
 🚀 Live Demo
 <br/>
-🔗 https://travellive-1-ieit.onrender.com/
+🔗 https://wanderlust-1-ieit.onrender.com/
 
 🛠️ Technologies Used
 <br/>
